@@ -17,7 +17,7 @@ Celý projekt byl zpracován na **zařízení MacBook Air M4** s operačním sys
 ## Struktura projektu
 Celkem se bude projekt skládat ze sedmi SQL souborů. 
 
-Dva soubory budou obsahovat skripty pro tvorbu tabulek obsahujících zdrojová data.
+Dva soubory budou obsahovat skripty pro tvorbu tabulek se zdrojovými daty.
 
 Zbylých pět souborů bude obsahovat skripty pro zodpovězení pěti výzkumných otázek.
 
