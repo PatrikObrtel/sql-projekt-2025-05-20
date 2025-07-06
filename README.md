@@ -15,7 +15,7 @@ Celý projekt byl zpracován na **zařízení MacBook Air M4** s operačním sys
 - DBeaver
 
 ## Struktura projektu
-Celkem se bude projekt skládat ze sedmi SQL souborů. 
+Celkem se bude projekt skládat ze sedmi SQL souborů a z průvodní listiny (popis mezivýsledků). 
 
 Dva soubory budou obsahovat skripty pro tvorbu tabulek se zdrojovými daty.
 
