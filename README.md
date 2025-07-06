@@ -12,7 +12,6 @@ Projekt se zaměřuje na téma **Dostupnosti základních potravin široké veř
 ## Zařízení a systémy
 Celý projekt byl zpracován na **zařízení MacBook Air M4** s operačním systémem macOS a byly využity tyto systémy:
 - Git
-- GitHub
 - DBeaver
 
 ## Struktura projektu
